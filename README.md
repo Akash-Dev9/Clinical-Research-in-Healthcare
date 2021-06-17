@@ -7,6 +7,7 @@ Aim of the Project :The aim of this project is to build Machine Learning models 
 #front of the person:
 -1. What has happened to me?
 -2. How does my future look like?
+![doctor super hero pic](https://user-images.githubusercontent.com/66218899/122435261-b53bee80-cf4c-11eb-9137-9849762ae6fa.jpg)
 While the first question refers to the diagnosis of the current situation to know the illness, the
 second is about predicting future medical risks. Exploring the answer to the first question is
 easy due to the availability of a broad spectrum of diagnostic tools today. The technology is
