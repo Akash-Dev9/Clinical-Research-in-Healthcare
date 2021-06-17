@@ -31,6 +31,8 @@ related to diagnoses, interventions, and other such details.
 • Medical records are a blend of the course of illness, intervening, and the developmental
 processes
 
+![2021-06-17](https://user-images.githubusercontent.com/66218899/122436340-98ec8180-cf4d-11eb-9471-09d36ec3c92b.png)
+
 In addition to addressing these four challenges, a predictive system is expected to comprehend
 medical records, determine present illness states, and predict future outcomes based on the
 data at hand.
